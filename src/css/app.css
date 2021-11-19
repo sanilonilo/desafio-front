@@ -1,0 +1,12 @@
+
+*{font-family:'Nunito'}
+
+html,body{
+  box-sizing: border-box;
+  padding:0 4%
+}
+
+@font-face{
+  src:url('../assets/font/Nunito.ttf');
+  font-family:'Nunito'
+}
